@@ -1,4 +1,4 @@
-# PROJECT: Calculator_React
+# PROJECT: Bookstore_React
 The BookStore project comes with the React-Redux section. In this project we will learn how to build a simple React/Redux application. We will work in a real-world project for a fictional company that requires help. The project has been split into multiple milestones, and each milestone has functional and technical requirements that will need to implement.
 
 ![screenshot](./Screenshot.png)
